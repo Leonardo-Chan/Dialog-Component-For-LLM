@@ -1,2 +1,2 @@
 # Dialog-Component-For-LLM
-2025.4.23
+2025.4.24
